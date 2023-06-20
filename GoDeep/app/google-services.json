@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "503508890882",
+    "project_id": "go-deep-462a0",
+    "storage_bucket": "go-deep-462a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503508890882:android:5d8b55659d988945d67e1b",
+        "android_client_info": {
+          "package_name": "com.example.godeep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503508890882-hd8hr18hf5f5raqlocm537ia1h13ehj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpAy8R4UsEHRpl7teSSA4q9qUj3cIdA_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503508890882-hd8hr18hf5f5raqlocm537ia1h13ehj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
